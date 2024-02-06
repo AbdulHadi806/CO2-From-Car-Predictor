@@ -18,7 +18,7 @@ I am a web developer with experience in MERN stack and full-stack projects. I am
 ## Good Luck!
 Wishing you the best of luck on your journey into the world of machine learning and future endeavors. May your efforts lead to fruitful outcomes and exciting discoveries! Wish me luck aswell.
 
-### P.S: I'm looking for opportunities for both onsite or remote
+### P.S: I'm looking for both onsite or remote opportunities
 
 ## Developer Contact
 For any business related work, email me abdul.806@yahoo.com (I regularly check my mails)
